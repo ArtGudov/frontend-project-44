@@ -22,5 +22,8 @@
   "homepage": "https://github.com/ArtGudov/frontend-project-44#readme",
   "keywords": [
     "@hexlet/code"
-  ]
+  ],
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
