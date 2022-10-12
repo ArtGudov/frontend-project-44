@@ -1,5 +1,4 @@
 {
-  "$schema": "https://developer.microsoft.com/json-schemas/teams/v1.11/MicrosoftTeams.schema.json",
   "name": "frontend-project-44",
   "version": "1.0.0",
   "description": "[![Actions Status](https://github.com/ArtGudov/frontend-project-44/workflows/hexlet-check/badge.svg)](https://github.com/ArtGudov/frontend-project-44/actions)",
